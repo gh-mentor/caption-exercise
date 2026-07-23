@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: July-27
+- Facilitator: @andrew-scoppa
 
 ## Class Resources
 
